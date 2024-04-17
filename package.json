@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.554.0",
+    "@aws-sdk/client-s3": "^3.433.0",
+    "@ipld/car": "^5.2.4",
+    "@ipld/dag-json": "^10.2.0",
+    "bytes": "^3.1.2",
+    "carstream": "^1.1.0",
+    "dagula": "^7.2.2",
+    "dotenv": "^16.3.1",
+    "linkdex": "^3.0.0",
+    "multiformats": "^12.1.2",
+    "ndjson-web": "^1.1.0",
+    "nft.storage": "^7.1.1",
+    "ora": "^8.0.1",
+    "p-map": "^7.0.2",
+    "p-retry": "^6.1.0",
+    "pg": "^8.11.3",
+    "timeout-abort-controller": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
